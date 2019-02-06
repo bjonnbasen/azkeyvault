@@ -1,0 +1,14 @@
+C:\azure_learning\azure_code\azkeyvault\bin\Debug\netcoreapp2.2\azkeyvault.deps.json
+C:\azure_learning\azure_code\azkeyvault\bin\Debug\netcoreapp2.2\azkeyvault.runtimeconfig.json
+C:\azure_learning\azure_code\azkeyvault\bin\Debug\netcoreapp2.2\azkeyvault.runtimeconfig.dev.json
+C:\azure_learning\azure_code\azkeyvault\bin\Debug\netcoreapp2.2\azkeyvault.dll
+C:\azure_learning\azure_code\azkeyvault\bin\Debug\netcoreapp2.2\azkeyvault.pdb
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.csprojAssemblyReference.cache
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.csproj.CoreCompileInputs.cache
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.RazorAssemblyInfo.cache
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.RazorAssemblyInfo.cs
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.AssemblyInfoInputs.cache
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.AssemblyInfo.cs
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.RazorTargetAssemblyInfo.cache
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.dll
+C:\azure_learning\azure_code\azkeyvault\obj\Debug\netcoreapp2.2\azkeyvault.pdb
